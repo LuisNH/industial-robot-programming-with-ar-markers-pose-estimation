@@ -1,9 +1,9 @@
-# Industrial Robots Programming With Augmented Reality Pose Estimators
+# Augmented Reality Robot Programming
 
 This is the repository of the software from the application of a paper to SoftwareX. This contains software that allows to define trajectories for an Universal Robots UR3e robot in relation to two markers using the
 Augmented Reality framework Vuforia and Unity.
 
-
+    
 ## Installation
 
 It is needed to have a PC and an Android device connected to the same local network.
